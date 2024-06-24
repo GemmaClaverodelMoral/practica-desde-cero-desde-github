@@ -5,5 +5,11 @@
   * Se pone que use una licencia MIT
     
 2.- En el repositorio:
-  * En la pestaña CODE copiamos el SSD de la dirección del repositorio. En este caso seria: 
-  * 
+  * En la pestaña CODE copiamos el SSD de la dirección del repositorio. En este caso seria: git@github.com:GemmaClaverodelMoral/practica-desde-cero-desde-github.git
+  * Clonamos en la liena de comandos del directorio padre de nuestro directorio actual en local
+  * > git clone git@github.com:GemmaClaverodelMoral/practica-desde-cero-desde-github.git
+  * Entramos a la carpeta que se acaba de crear:
+  * > cd practica-desde-cero-desde-github
+  * Revisamos que en la carpeta tengamos los archivos Readme , licence y .gitignore
+  * > ls
+ 
