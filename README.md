@@ -5,11 +5,16 @@
   * Se pone que use una licencia MIT
     
 2.- En el repositorio:
-  * En la pestaña CODE copiamos el SSD de la dirección del repositorio. En este caso seria: git@github.com:GemmaClaverodelMoral/practica-desde-cero-desde-github.git
+  * En la pestaña CODE copiamos el HTML de la dirección del repositorio. En este caso seria: 
   * Clonamos en la liena de comandos del directorio padre de nuestro directorio actual en local
-  * > git clone git@github.com:GemmaClaverodelMoral/practica-desde-cero-desde-github.git
+  * > git clone https://github.com/GemmaClaverodelMoral/practica-desde-cero-desde-github.git
   * Entramos a la carpeta que se acaba de crear:
   * > cd practica-desde-cero-desde-github
   * Revisamos que en la carpeta tengamos los archivos Readme , licence y .gitignore
   * > ls
- 
+  * > git add .gitignore (pero visual ya lo esta haciendo en 2024)
+  * Se puede hacer git push directo sin decir de que no hacia donde
+  * > git push
+  * Se crean los archivos index.html y scrip.js (por ejemplo)
+  * Se sube el proyecto
+  
